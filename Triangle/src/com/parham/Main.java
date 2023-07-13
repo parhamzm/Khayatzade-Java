@@ -11,6 +11,8 @@ public class Main {
         int x = scanner.nextInt();
 
         System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&" + "\n\n\n");
+        //testing Chinese
+        System.out.println("你好" + "\n\n\n");
 
         int p = x;
         for (int i=0; i <= x; i++){
